@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DP.Builder.Client/1.0.0": {
+        "dependencies": {
+          "DP.Builder.Source": "1.0.0"
+        },
+        "runtime": {
+          "DP.Builder.Client.dll": {}
+        }
+      },
+      "DP.Builder.Source/1.0.0": {
+        "runtime": {
+          "DP.Builder.Source.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DP.Builder.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DP.Builder.Source/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

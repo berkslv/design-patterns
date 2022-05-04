@@ -1,0 +1,12 @@
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/bin/Debug/net6.0/DP.AbstractFactory.Source.deps.json
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/bin/Debug/net6.0/DP.AbstractFactory.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/bin/Debug/net6.0/ref/DP.AbstractFactory.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/bin/Debug/net6.0/DP.AbstractFactory.Source.pdb
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/DP.AbstractFactory.Source.csproj.AssemblyReference.cache
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/DP.AbstractFactory.Source.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/DP.AbstractFactory.Source.AssemblyInfoInputs.cache
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/DP.AbstractFactory.Source.AssemblyInfo.cs
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/DP.AbstractFactory.Source.csproj.CoreCompileInputs.cache
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/DP.AbstractFactory.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/ref/DP.AbstractFactory.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/DP.AbstractFactory.Source/obj/Debug/net6.0/DP.AbstractFactory.Source.pdb

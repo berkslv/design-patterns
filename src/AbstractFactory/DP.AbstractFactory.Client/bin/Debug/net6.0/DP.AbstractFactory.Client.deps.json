@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DP.AbstractFactory.Client/1.0.0": {
+        "dependencies": {
+          "DP.AbstractFactory.Source": "1.0.0"
+        },
+        "runtime": {
+          "DP.AbstractFactory.Client.dll": {}
+        }
+      },
+      "DP.AbstractFactory.Source/1.0.0": {
+        "runtime": {
+          "DP.AbstractFactory.Source.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DP.AbstractFactory.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DP.AbstractFactory.Source/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

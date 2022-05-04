@@ -1,0 +1,12 @@
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/bin/Debug/net6.0/DP.Builder.Source.deps.json
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/bin/Debug/net6.0/DP.Builder.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/bin/Debug/net6.0/ref/DP.Builder.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/bin/Debug/net6.0/DP.Builder.Source.pdb
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/DP.Builder.Source.csproj.AssemblyReference.cache
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/DP.Builder.Source.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/DP.Builder.Source.AssemblyInfoInputs.cache
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/DP.Builder.Source.AssemblyInfo.cs
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/DP.Builder.Source.csproj.CoreCompileInputs.cache
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/DP.Builder.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/ref/DP.Builder.Source.dll
+/Users/berkslv/Documents/computer-science/project/design-patterns/src/Builder/DP.Builder.Source/obj/Debug/net6.0/DP.Builder.Source.pdb
